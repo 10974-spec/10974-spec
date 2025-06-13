@@ -1,62 +1,67 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x300?text=Full+Stack+Dev+%7C+Rugby+Lover+%7C+Creative+Mind" alt="Hero" />
+  <img src="https://via.placeholder.com/800x300?text=Full+Stack+Dev+%7C+Rugby+Lover+%7C+Creative+Mind" alt="Hero Banner" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel Nyakoe</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🎨 Creative Coder | 🏉 Rugby Lover | 🏋️‍♂️ Fitness Enthusiast<br/>
-  📍 Based in Kenya | 📧 emmanuelnyakoe13@gmail.com | 📱 0117041805
+  💻 Full Stack Developer | 🎨 Creative Coder | 🏉 Rugby Lover | 🏋️‍♂️ Fitness Enthusiast <br/>
+  📍 Kenya &nbsp; | &nbsp; 📧 <a href="mailto:emmanuelnyakoe13@gmail.com">emmanuelnyakoe13@gmail.com</a> &nbsp; | &nbsp; 📱 0117041805
 </p>
 
 ---
 
-### ✨ About Me
+<h2 align="center">✨ About Me</h2>
 
-- 🔭 Building **3D web experiences** with Three.js, React & GSAP
-- 🌱 Currently learning **React Three Fiber**, **Next.js**, and **advanced animations**
-- 🎓 Proud learner at **PLP Academy (Power Learn Project)**
-- 🧠 Strong in **Django**, **JavaScript**, **Python**, and the **MERN Stack**
-- 💪 I balance coding with **rugby** and **working out** — code hard, lift harder 💥
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-
-#### **Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-
-#### **Other Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+<p align="center">
+  🔭 Building <b>3D web experiences</b> with Three.js, React & GSAP <br/>
+  🌱 Learning <b>React Three Fiber, Next.js & animations</b> <br/>
+  🎓 Proud learner at <b>PLP Academy</b> <br/>
+  🧠 Skilled in <b>Django, MERN Stack, JavaScript & Python</b> <br/>
+  💪 Passionate about <b>rugby, coding and working out</b>
+</p>
 
 ---
 
-### 📊 Tech Mastery Progress
+<h2 align="center">🛠 Tech Stack & Tools</h2>
 
-| Skill         | Level |
-|---------------|-------|
-| MERN Stack    | ██████████░░ 85% |
-| Django        | ██████████░░ 80% |
-| Python        | ███████████░ 90% |
-| React Three Fiber | ████████░░░ 70% |
-| GSAP Animations | ███████░░░░ 60% |
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-### 📈 Skills Radar
+<h2 align="center">📊 Tech Mastery Progress</h2>
+
+<p align="center">
+
+| Skill                | Proficiency         |
+|---------------------|---------------------|
+| MERN Stack           | ██████████░░ 85%    |
+| Django               | ██████████░░ 80%    |
+| Python               | ███████████░ 90%    |
+| React Three Fiber    | ████████░░░ 70%     |
+| GSAP Animations      | ███████░░░░ 60%     |
+
+</p>
+
+---
+
+<h2 align="center">📈 Skills Radar</h2>
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['React','Python','Node','Django','Next.js','Three.js'],datasets:[{label:'Proficiency',data:[85,90,80,80,70,65]}]}}" width="400" />
@@ -64,26 +69,34 @@
 
 ---
 
-### 📫 Let’s Connect!
+<h2 align="center">📫 Let’s Connect!</h2>
 
 <p align="center">
-  <a href="mailto:emmanuelnyakoe13@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:emmanuelnyakoe13@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-
-I play rugby like I write code — aggressively clean and full of passion! 🏉💻
+<h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x200?text=Code+%2B+Workout+%2B+Rugby+%3D+Me" alt="Fun Fact" />
+  I play rugby like I write code — <b>aggressively clean and full of passion!</b> 🏉💻
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x200?text=Code+%2B+Workout+%2B+Rugby+%3D+Me" alt="Fun Fact Banner" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=10974-spec&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=10974-spec&color=blueviolet" alt="Visitor Count" />
 </p>
