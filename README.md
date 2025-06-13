@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x300?text=Full+Stack+Dev+%7C+Rugby+Lover+%7C+Creative+Mind" alt="Hero Banner" />
+  <img src="https://images.dreamstime.com/illustration/programming-web-banner.html" alt="Programming Web Banner" width="800" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel Nyakoe</h1>
