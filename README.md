@@ -1,44 +1,51 @@
-# Hi there 👋 I'm Emmanuel Nyakoe
+<p align="center">
+  <img src="https://yourdomain.com/hero-image.jpg" alt="3D code art" width="600px"/>
+</p>
 
-### 💻 Full Stack Developer | 🎨 Creative Coder | 🚀 Tech Enthusiast
+<h1 align="center">Hi there 👋 I’m **Emmanuel Nyakoe**</h1>
+<p align="center">
+🎓 Full Stack Developer | Creative Coder | Tech Enthusiast | Rugby Fan | Fitness Buff
+</p>
 
-✨ **About Me**:
-- 🔭 Currently working on **3D web experiences** with Three.js & React
-- 🌱 Learning **React Three Fiber, GSAP animations, and Next.js** 
-- 🎓 Part of **PLP Academy** (Power Learn Project)
-- 🧠 Strong foundations in **Django, HTML/CSS, and JavaScript**
-- 💡 Passionate about **building interactive web applications**
+---
 
-### 🛠 Tech Stack
+## ✨ About Me
+- 🔭 Currently creating immersive **3D web experiences** with Three.js & React  
+- 🌱 Learning **React Three Fiber**, **GSAP animations**, and **Next.js** for next-level projects  
+- 🎓 Alumni of **PLP Academy (Power Learn Project)**  
+- 💡 Skilled in **Django**, **HTML/CSS**, **JavaScript**, and responsive web design  
+- 🏉 Passionate about **rugby**, daily coding challenges, and staying fit in the gym  
 
-**Frontend**:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+---
 
-**Backend**:
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+## 🛠 Tech Stack & Progress
 
-**Others**:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+### 📋 Frontend
+- **React** ![90%](https://progress-bar.dev/90/?title=React)
+- **Next.js** ![80%](https://progress-bar.dev/80/?title=Next.js)
+- **Three.js** ![70%](https://progress-bar.dev/70/?title=Three.js)
+- **GSAP** ![65%](https://progress-bar.dev/65/?title=GSAP)
+- **Tailwind CSS** ![85%](https://progress-bar.dev/85/?title=Tailwind%20CSS)
 
-### 🎯 Current Focus
-- Building **3D portfolio websites** with React Three Fiber
-- Mastering **GSAP animations** for smooth user experiences
-- Exploring **Next.js** for server-side rendering
-- Contributing to **open-source projects**
+### ⚙️ Backend
+- **Django** ![75%](https://progress-bar.dev/75/?title=Django)
+- **Python** ![85%](https://progress-bar.dev/85/?title=Python)
 
-### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🌐 Others
+- **JavaScript (ES6+)** ![80%](https://progress-bar.dev/80/?title=JavaScript)
+- **HTML5 & CSS3** ![90%](https://progress-bar.dev/90/?title=HTML5%20%26%20CSS3)
+- **MERN Stack**  
+  - MongoDB ![70%](https://progress-bar.dev/70/?title=MongoDB)
+  - Express.js ![75%](https://progress-bar.dev/75/?title=Express.js)
+  - React ![90%](https://progress-bar.dev/90/?title=React)
+  - Node.js ![80%](https://progress-bar.dev/80/?title=Node.js)
 
-### ⚡ Fun Fact
-When I'm not coding, you'll find me 🎮 gaming or 🎨 creating digital art!
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=10974-spec&color=blueviolet)
+## 📊 Skills Snapshot
+
+```text
+React     ██████████ 90%
+JavaScript████████ 80%
+Django    ████████ 75%
+Three.js  ███████ 70%
