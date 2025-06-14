@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="./readme-image.png" alt="Project Banner" width="900" style="border-radius:12px;" />
+  <img src="./readme-image.png" alt="Project Banner" width="100%" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel Nyakoe</h1>
