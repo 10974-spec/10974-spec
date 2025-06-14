@@ -44,59 +44,17 @@
 </p>
 
 ---
-
+<h2 align="center">📈 Tech Mastery</h2>
 <p align="center">
-  <table align="center">
-    <tr>
-      <th>Skill</th>
-      <th>Proficiency</th>
-    </tr>
-    <tr>
-      <td>MERN Stack</td>
-      <td>
-        <div style="display: inline-block; width: 200px; background: #e0e0e0; border-radius: 10px;">
-          <div style="width: 85%; height: 20px; background: #4CAF50; border-radius: 10px;"></div>
-        </div>
-        <span>85%</span>
-      </td>
-    </tr>
-    <tr>
-      <td>Django</td>
-      <td>
-        <div style="display: inline-block; width: 200px; background: #e0e0e0; border-radius: 10px;">
-          <div style="width: 80%; height: 20px; background: #2196F3; border-radius: 10px;"></div>
-        </div>
-        <span>80%</span>
-      </td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>
-        <div style="display: inline-block; width: 200px; background: #e0e0e0; border-radius: 10px;">
-          <div style="width: 90%; height: 20px; background: #FF5722; border-radius: 10px;"></div>
-        </div>
-        <span>90%</span>
-      </td>
-    </tr>
-    <tr>
-      <td>React Three Fiber</td>
-      <td>
-        <div style="display: inline-block; width: 200px; background: #e0e0e0; border-radius: 10px;">
-          <div style="width: 70%; height: 20px; background: #9C27B0; border-radius: 10px;"></div>
-        </div>
-        <span>70%</span>
-      </td>
-    </tr>
-    <tr>
-      <td>GSAP Animations</td>
-      <td>
-        <div style="display: inline-block; width: 200px; background: #e0e0e0; border-radius: 10px;">
-          <div style="width: 60%; height: 20px; background: #FFC107; border-radius: 10px;"></div>
-        </div>
-        <span>60%</span>
-      </td>
-    </tr>
-  </table>
+
+| Skill                | Proficiency         |
+|----------------------|---------------------|
+| MERN Stack           | ![85%](https://progress-bar.dev/85/?title=&width=200&color=4CAF50) |
+| Django               | ![80%](https://progress-bar.dev/80/?title=&width=200&color=2196F3) |
+| Python               | ![90%](https://progress-bar.dev/90/?title=&width=200&color=FF5722) |
+| React Three Fiber    | ![70%](https://progress-bar.dev/70/?title=&width=200&color=9C27B0) |
+| GSAP Animations      | ![60%](https://progress-bar.dev/60/?title=&width=200&color=FFC107) |
+
 </p>
 
 ---
