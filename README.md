@@ -49,11 +49,11 @@
 
 | Skill                | Proficiency         |
 |----------------------|---------------------|
-| MERN Stack           | ![85%](https://progress-bar.dev/85/?title=&width=200&color=4CAF50) |
-| Django               | ![80%](https://progress-bar.dev/80/?title=&width=200&color=2196F3) |
-| Python               | ![90%](https://progress-bar.dev/90/?title=&width=200&color=FF5722) |
-| React Three Fiber    | ![70%](https://progress-bar.dev/70/?title=&width=200&color=9C27B0) |
-| GSAP Animations      | ![60%](https://progress-bar.dev/60/?title=&width=200&color=FFC107) |
+| MERN Stack           | ![](https://geps.dev/progress/85?successColor=4CAF50) |
+| Django               | ![](https://geps.dev/progress/80?successColor=2196F3) |
+| Python               | ![](https://geps.dev/progress/90?successColor=FF5722) |
+| React Three Fiber    | ![](https://geps.dev/progress/70?successColor=9C27B0) |
+| GSAP Animations      | ![](https://geps.dev/progress/60?successColor=FFC107) |
 
 </p>
 
