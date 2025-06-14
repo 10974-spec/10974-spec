@@ -46,16 +46,15 @@
 ---
 
 <h2 align="center">📊 Tech Mastery Progress</h2>
-
 <p align="center">
 
 | Skill                | Proficiency         |
 |---------------------|---------------------|
-| MERN Stack           | <span style="color: #4CAF50;">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><span style="color: #E0E0E0;">⬛⬛</span> 85% |
-| Django               | <span style="color: #2196F3;">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><span style="color: #E0E0E0;">⬛⬛</span> 80% |
-| Python               | <span style="color: #FF5722;">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span><span style="color: #E0E0E0;">⬛</span> 90% |
-| React Three Fiber    | <span style="color: #9C27B0;">⬛⬛⬛⬛⬛⬛⬛⬛</span><span style="color: #E0E0E0;">⬛⬛⬛</span> 70% |
-| GSAP Animations      | <span style="color: #FFC107;">⬛⬛⬛⬛⬛⬛⬛</span><span style="color: #E0E0E0;">⬛⬛⬛⬛</span> 60% |
+| MERN Stack           | <span style="color: #4CAF50;">██████████░░</span> 85% |
+| Django               | <span style="color: #2196F3;">██████████░░</span> 80% |
+| Python               | <span style="color: #FF5722;">███████████░</span> 90% |
+| React Three Fiber    | <span style="color: #9C27B0;">████████░░░</span> 70% |
+| GSAP Animations      | <span style="color: #FFC107;">███████░░░░</span> 60% |
 
 </p>
 
