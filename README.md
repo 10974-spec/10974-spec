@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=10974-spec&color=blueviolet" alt="Visitor Count" />
+  <img src="./footer-image.png" alt="Project Banner" width="100%" style="border-radius:12px;" />
 </p>
