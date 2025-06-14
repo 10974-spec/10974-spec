@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://images.dreamstime.com/illustration/programming-web-banner.html" alt="Programming Web Banner" width="800" style="border-radius:12px;" />
+  <img src="./readme-image.jpg" alt="Project Banner" width="800" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Emmanuel Nyakoe</h1>
