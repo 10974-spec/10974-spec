@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-  <img src="./footer-image.png" alt="Project Banner" width="100%" style="border-radius:12px;" />
+  <img src="./footer-banner.png" alt="Project Banner" width="100%" style="border-radius:12px;" />
 </p>
