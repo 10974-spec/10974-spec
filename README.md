@@ -43,21 +43,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-<h2 align="center">📈 Tech Mastery</h2>
-<p align="center">
-
-| Skill                | Proficiency         |
-|----------------------|---------------------|
-| MERN Stack           | ![](https://geps.dev/progress/85?successColor=4CAF50&width=900) 85% |
-| Django               | ![](https://geps.dev/progress/80?successColor=2196F3&width=400) 80% |
-| Python               | ![](https://geps.dev/progress/90?successColor=FF5722&width=400) 90% |
-| React Three Fiber    | ![](https://geps.dev/progress/70?successColor=9C27B0&width=400) 70% |
-| GSAP Animations      | ![](https://geps.dev/progress/60?successColor=FFC107&width=400) 60% |
-
-</p>
-
----
 
 <h2 align="center">📈 Skills Radar</h2>
 
