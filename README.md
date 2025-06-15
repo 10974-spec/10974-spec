@@ -62,7 +62,39 @@
 <h2 align="center">📈 Skills Radar</h2>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['React','Python','Node','Django','Next.js','Three.js'],datasets:[{label:'Proficiency',data:[85,90,80,80,70,65]}]}}" width="400" />
+  <img src="https://quickchart.io/chart?c={
+    type: 'pie',
+    data: {
+      labels: ['React', 'Python', 'Node', 'Django', 'Next.js', 'Three.js'],
+      datasets: [{
+        data: [85, 90, 80, 80, 70, 65],
+        backgroundColor: [
+          '#61DAFB',  // React blue
+          '#3776AB',  // Python blue
+          '#68A063',  // Node green
+          '#092E20',  // Django dark green
+          '#000000',  // Next.js black
+          '#049EF4'   // Three.js blue
+        ],
+        borderColor: '#fff',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      plugins: {
+        legend: {
+          position: 'right'
+        },
+        title: {
+          display: true,
+          text: 'Tech Proficiency',
+          font: {
+            size: 16
+          }
+        }
+      }
+    }
+  }" width="400" />
 </p>
 
 ---
