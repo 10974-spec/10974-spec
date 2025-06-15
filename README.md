@@ -62,41 +62,9 @@
 <h2 align="center">📈 Skills Radar</h2>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type: 'pie',
-    data: {
-      labels: ['React', 'Python', 'Node', 'Django', 'Next.js', 'Three.js'],
-      datasets: [{
-        data: [85, 90, 80, 80, 70, 65],
-        backgroundColor: [
-          '#61DAFB',  // React blue
-          '#3776AB',  // Python blue
-          '#68A063',  // Node green
-          '#092E20',  // Django dark green
-          '#000000',  // Next.js black
-          '#049EF4'   // Three.js blue
-        ],
-        borderColor: '#fff',
-        borderWidth: 1
-      }]
-    },
-    options: {
-      plugins: {
-        legend: {
-          position: 'right'
-        },
-        title: {
-          display: true,
-          text: 'Tech Proficiency',
-          font: {
-            size: 16
-          }
-        }
-      }
-    }
-  }" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10974-spec&layout=compact&theme=radical&hide_border=true&title_color=61DAFB&text_color=FFFFFF&bg_color=0D1117" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=10974-spec&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=68A063&text_color=FFFFFF&bg_color=0D1117" width="400" />
 </p>
-
 ---
 
 <h2 align="center">📫 Let’s Connect!</h2>
