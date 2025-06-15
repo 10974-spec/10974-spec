@@ -74,9 +74,7 @@
   I play rugby like I write code — <b>aggressively clean and full of passion!</b> 🏉💻
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/700x200?text=Code+%2B+Workout+%2B+Rugby+%3D+Me" alt="Fun Fact Banner" />
-</p>
+
 
 ---
 
